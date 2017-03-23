@@ -1,5 +1,3 @@
-[![Code Climate](https://lima.codeclimate.com/github/WoKak/TicTacToeOnline/badges/gpa.svg)](https://lima.codeclimate.com/github/WoKak/TicTacToeOnline)
-
 (English version below)
 
 Żeby uruchomić ten projekt:
